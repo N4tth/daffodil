@@ -8,7 +8,7 @@ class DaffodilApp(QMainWindow):
         super().__init__()
 
         self.setWindowTitle("DAFFODIL MP3")
-        self.setGeometry(100,100,600,400)
+        self.setGeometry(100,100,600,200)
 
         layout = QVBoxLayout()
 
